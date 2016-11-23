@@ -21,7 +21,7 @@ print(TEMPLATE_DIR)
 # See https://docs.djangoproject.com/en/1.10/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '+5sd_@ib-lcv)i9s7jabmkw(fhh@15==4+3c+6v20gux(g@a@%'
+SECRET_KEY = 'not actually my secret key'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
